@@ -17,8 +17,8 @@ Installation
 Put git-icon-emblems.py in ~/.gnome2/nautilus-scripts
 
 I installed the emblems using Nautiuls Edit -> Backgrounds and Emblems ... -> Add New Emblem, type its name,
-click the image, browse to it, select it, repeat. But I think it must be possible to just copy something
-to ~/.icons/hicolor/48x48/emblems giving them the correct names. 
+click the image, browse to it, select it, repeat. At least on Ubuntu Lucid you should be able to copy
+the included hicolor folder to ~/.icons/ and it should just work. Your mileage may vary.
 
 License
 =======
